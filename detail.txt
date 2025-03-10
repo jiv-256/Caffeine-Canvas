@@ -1,0 +1,1 @@
+// This file is a comprehensive tool for tracking and analyzing coffee consumption. It uses timestamps, caffeine half-life, and aggregation techniques to provide insights into caffeine levels, consumption habits, and costs. The functions are modular and can be used independently or together to build a complete caffeine-tracking system.
