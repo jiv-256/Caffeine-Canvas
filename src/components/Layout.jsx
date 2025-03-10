@@ -21,7 +21,7 @@ export default function Layout(props) {
             )}
             <header>
             <div>
-                <h1 className="text-gradient">CAFFIEND</h1>
+                <h1 className="text-gradient">Caffeine Canvas</h1>
                 <p>For Coffee Insatiates</p>
             </div>
             {globalUser ? (
